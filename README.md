@@ -5,65 +5,40 @@
   <img src="https://img.shields.io/badge/Team-Robotics%20Club-blue" alt="Team: Robotics Club">
   <img src="https://img.shields.io/badge/Platform-Arduino-orange" alt="Platform: Arduino">
   <div align="center">
-    <img src="./photos/foto_1.png" width="600" alt="Project Image">
-    <br>
-    </h1>Add project specific image on ./photos/foto_1.png</h1> 
+    <img src="./photos/foto_1.jpg" width="600" alt="Project Image">
+    <br> 
   </div>
 </div>
 
 ## 🤖 Project Overview
 
-This repository houses the codebase for the **!TODO(project name)**. It serves as a comprehensive collection of resources including code, CAD models, calculations, and component datasheets. Our aim is to create a well-documented reference that will enable future teams to build upon our work.
+This repository houses the codebase for the **3RRS Parallel Manipulator**. It serves as a comprehensive collection of resources, including code, CAD models, calculations, and component datasheets. We aim to create a well-documented reference that will enable future teams to build upon our work.
 
-### 🎯 Design Goals
-!ToDo
+### 🎯 Key Features
 
-some sample
-- ✅ Compact design (within 100×100mm)
-- ✅ Efficient corner turning capability
-- ✅ Fast maze-solving algorithm
-- ✅ Differential drive with high-speed motors
+- ✅ Robust Mechanism Design
+- ✅ Efficient and Fast Inverse Kinematics
+- ✅ Precise Orientation with minimal lag
 
 
 ## 🧠 Algorithm Development
-!ToDo()
-
-## ⏱️ Project Timeline
-Main idea is to build a very very basic version first, probably within 2 weeks and then work on modifying it, (believer me doing otherwise is stupidity...)
-
-### Week 1: Introduction
-- Review the competition rulebook
--  Be familiar with github
--  Brainstorm ideas and design concepts based in the video,
--  Prepare Bill of Materials
--  Draft electronic system diagram
--  !TODO()
-
-
-### Week 2: Hardware Assembly
--  Assemble mechanical components
-- !TODO()
-
-### Week 3: Debugging
--  Hardware and software troubleshooting
--  !TODO()
-
-### Week 4: Algorithm Refinement
--  Enhance hardware robustness
--  !TODO()
-
-### Weeks 5-7: Progressive Enhancements
-- 🔄 Implement iterative improvements (tbd)
-- !TODO()
+The Inverse Kinematics have been completely solved, coded, and used in multiple applications, one being a ball balancing robot. 
 
 ## 📚 Resources
+- [Intro to Serial and Parallel Manipulators](https://youtu.be/ZZrNe40jpSA?si=esQ4bNgmhpNv93w0)
+- [Inverse Kinematics with the example of a Ball Balancing Bot](https://youtu.be/-1pX518wlu8?si=GbBtG65QNJ148i5c)
+- [Research Paper on Kinematics and Dynamics of a 3RRS Parallel Manipulator](https://www.researchgate.net/publication/3902626_Inverse_kinematics_and_dynamics_of_the_3-RRS_parallel_platform)
 
-### Tools and References (tbd)
-- !TODO()
+### Software Utilised
+- Autodesk Fusion 360
+- Python
+- Arduino IDE
 
-### Development Software
-- !TODO()
-
+### Hardware Utilised
+- [DC Geared Motors](https://robu.in/product/et-wgm58-a-high-torque-low-noise-90-degree-right-angle-1-100rpm-12v-dc-worm-gear-motor/)
+- [Rotary Encoders](https://robu.in/product/orange-600-ppr-abz-3-phase-incremental-magnetic-rotary-encoder/)
+- [Motor Drivers](https://robu.in/product/dual-channel-enhanced-13amp-dc-motor-driver-30a-peak/)
+- [Arduino Mega](https://robu.in/product/original-arduino-mega-2560-atmega2560-mcu-rev3/)
 
 
 ## 🤝 Contributor Notes
