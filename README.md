@@ -1,4 +1,4 @@
-# Robotics Summer Project 2025-26
+# Robotics Project 2025
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
