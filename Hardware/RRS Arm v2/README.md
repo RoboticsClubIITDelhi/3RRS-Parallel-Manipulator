@@ -1,4 +1,4 @@
-<img src="./photos/arm_v2.png">
+<img src="/photos/arm_v2.png">
 Designer: Nitye Gupta
 This directory contains the CAD files for the first iteration of an RRS arm.
 The Spherical joint has been switched to a true spherical joint.
