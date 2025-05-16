@@ -35,10 +35,10 @@ The Inverse Kinematics have been completely solved, coded, and used in multiple 
 - Arduino IDE
 
 ### Hardware Utilised
-- [DC Geared Motors](https://robu.in/product/et-wgm58-a-high-torque-low-noise-90-degree-right-angle-1-100rpm-12v-dc-worm-gear-motor/)
-- [Rotary Encoders](https://robu.in/product/orange-600-ppr-abz-3-phase-incremental-magnetic-rotary-encoder/)
-- [Motor Drivers](https://robu.in/product/dual-channel-enhanced-13amp-dc-motor-driver-30a-peak/)
-- [Arduino Mega](https://robu.in/product/original-arduino-mega-2560-atmega2560-mcu-rev3/)
+- DC Geared Motors
+- Rotary Encoders
+- Motor Drivers
+- Arduino Mega
 
 
 ## 🤝 Contributor Notes
