@@ -1,4 +1,5 @@
-This folder contains the circuit diagram.<br>
+This folder contains the circuit diagram.<br><br>
+<img src="/photos/Schematic_3RRS-Parallel-Manipulator_2025-05-17.png">
 <h2>Important points</h2>
 <ul>
   <li>
